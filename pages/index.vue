@@ -1,5 +1,9 @@
 <template>
-  <div><Icon icon="check" /></div>
+  <div>
+    <v-button> teste </v-button>
+    <v-input />
+    <Icon icon="check" />
+  </div>
 </template>
 
 <script>
